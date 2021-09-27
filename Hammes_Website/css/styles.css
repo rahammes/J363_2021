@@ -1,0 +1,22 @@
+body {
+  background-color: lightgrey;
+}
+
+.header {
+  background-color: black;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+a:link {
+  color: lightblue;
+}
+
+a:visited {
+  color: lightgrey;
+}
+
+a:hover {
+  color: cyan;
+}
